@@ -4,6 +4,7 @@ GNUPLOT script bndspdos.gnu for plotting band structure + PDOS
 
 **How to use**
 > gnuplot bndspdos.gnu
+> 
 > ps2pdf bndspdos.ps 
 
 
