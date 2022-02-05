@@ -1,5 +1,5 @@
   set term postscript enh color font 'Times-Roman,24'
-  set output 'bndspdos_paper.ps'
+  set output 'bndspdos.ps'
   set multiplot
   set origin 0., 0.
   set size 0.6, 1.0
