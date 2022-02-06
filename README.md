@@ -1,4 +1,4 @@
-# Plot Band + PDOS
+# Plot Band Structure + PDOS
 
 GNUPLOT script [bndspdos.gnu](bndspdos.gnu) for plotting band structure + PDOS
 
