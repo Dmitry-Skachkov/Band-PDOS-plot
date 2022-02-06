@@ -12,5 +12,7 @@ GNUPLOT script [bndspdos.gnu](bndspdos.gnu) for plotting band structure + PDOS
 
 ![GitHub Logo](https://github.com/Dmitry-Skachkov/Band-PDOS-plot/blob/main/bndspdos.jpg)
 
+**Figure.** Band structure and PDOS of C<sub>i</sub> defect in zero charge state. For details see 
+
 
 
